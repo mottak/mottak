@@ -41,11 +41,11 @@
 &nbsp;&nbsp;&nbsp;
 <img src="./img/mysql.png" width="60" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/mongodb.png" width="60" height="40" style="margin: 10px" />
+<img src="./img/mongodb-logo.png" width="60" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 </div>
 
 ##### FOLLOW ME ON
 
-<img href="www.linkedin.com/in/kissylamotta/" target="_blank" src="./img/linkedin.jpg" width="140" height="35" style="margin: 10px"/>
+<img href="www.linkedin.com/in/kissylamotta/" target="_blank" src="./img/linkedin.png" width="140" height="35" style="margin: 10px"/>
 
