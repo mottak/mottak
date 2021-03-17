@@ -25,13 +25,13 @@
 &nbsp;&nbsp;&nbsp;
 <img src="./img/Git_icon.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/css3.jpeg" width="50" height="40" style="margin: 10px" />
+<img src="./img/css.jpg" width="30" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/HTML5.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/JavaScript.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/react.png" width="40" height="40" style="margin: 10px" />
+<img src="./img/react.png" width="50" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 </div>
 
@@ -39,11 +39,11 @@
 <div>
 <img src="./img/redux.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/nodejs.jpg" width="60" height="40" style="margin: 10px" />
+<img src="./img/nodejs.jpg" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/mysql.png" width="60" height="40" style="margin: 10px" />
+<img src="./img/mysql.png" width="50" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/mongodb-logo.png" width="60" height="40" style="margin: 10px" />
+<img src="./img/mongodb-logo.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 </div>
 
