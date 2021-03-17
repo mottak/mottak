@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-# 🌱 Kissyla Motta Pereira 🌱 
+<img src="./img/myOctocat.png" width="90" height="120" style="margin: 10px" />
+
+# :corn: Kissyla Motta Pereira :corn:
 #### *Student at TRYBE to become a full-stack developer*
 :dart: ***Open to Work***
 
@@ -47,5 +49,5 @@
 
 ##### FOLLOW ME ON
 
-<img href="www.linkedin.com/in/kissylamotta/" target="_blank" src="./img/linkedin.png" width="140" height="50" style="margin: 10px"/>
+<img href="www.linkedin.com/in/kissylamotta/" target="_blank" src="./img/linkedin.png" width="140" height="90" style="margin: 10px"/>
 
