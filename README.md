@@ -47,5 +47,5 @@
 
 ##### FOLLOW ME ON
 
-<img href="www.linkedin.com/in/kissylamotta/" target="_blank" src="./img/linkedin.png" width="140" height="35" style="margin: 10px"/>
+<img href="www.linkedin.com/in/kissylamotta/" target="_blank" src="./img/linkedin.png" width="140" height="50" style="margin: 10px"/>
 
