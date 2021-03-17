@@ -48,7 +48,6 @@
 </div>
 
 ##### FOLLOW ME ON
-
-<img href="https://www.linkedin.com/in/kissylamotta/" target="_blank" src="./img/linkedin.png" width="140" height="90" style="margin: 10px"/>
-
-
+<a href="https://www.linkedin.com/in/kissylamotta/">
+<img target="_blank" src="./img/linkedin.png" width="140" height="90" style="margin: 10px"/>
+</a>
