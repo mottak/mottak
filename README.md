@@ -21,29 +21,31 @@
 <div>
 <img src="./img/Octocat.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/Git_icon.svg" width="40" height="40" style="margin: 10px" />
+<img src="./img/Git_icon.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/css3.svg" width="50" height="40" style="margin: 10px" />
+<img src="./img/css3.jpeg" width="50" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/html-5.svg" width="40" height="40" style="margin: 10px" />
+<img src="./img/HTML5.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/javascript-1.svg" width="40" height="40" style="margin: 10px" />
+<img src="./img/JavaScript.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/react-2.svg" width="40" height="40" style="margin: 10px" />
+<img src="./img/react.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 </div>
 
 ##### OTHERS
 <div>
-<img src="./img/redux.svg" width="40" height="40" style="margin: 10px" />
+<img src="./img/redux.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/nodejs-1.svg" width="60" height="40" style="margin: 10px" />
+<img src="./img/nodejs.jpg" width="60" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/mysql.png" width="60" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/mongodb.png" width="60" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 </div>
 
 ##### FOLLOW ME ON
 
-<img href="www.linkedin.com/in/kissylamotta/" target="_blank" src="./img/linkedin.svg" width="140" height="35" style="margin: 10px"/>
+<img href="www.linkedin.com/in/kissylamotta/" target="_blank" src="./img/linkedin.jpg" width="140" height="35" style="margin: 10px"/>
 
