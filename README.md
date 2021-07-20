@@ -14,7 +14,7 @@
 
 ##### A LITTLE ABOUT ME
 
-- :computer:  Currently studying software development at TRYBE
+- :computer:  Software development by TRYBE, and TRYBE INSTRUCTOR
 - :heart:  Passionate for technologies and optimizations
 - :recycle:  Always learning, practicing and growing up
 - :mortar_board: Industrial Engineer and swimmer :swimmer:
