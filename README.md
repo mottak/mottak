@@ -3,8 +3,7 @@
 <img src="./img/myOctocat.png" width="90" height="120" style="margin: 10px" />
 
 # :corn: Kissyla Motta Pereira :corn:
-#### *Student at <a href="https://www.betrybe.com/">TRYBE</a> to become a full-stack developer*
-:dart: ***Open to Work***
+#### *Back-End Instructor on <a href="https://www.betrybe.com/">TRYBE</a>*
 
 ##### WHAT YOU WILL FIND
 
