@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<img src="./img/myOctocat.png" width="90" height="120" style="margin: 10px" />
-
-# :corn: Kissyla Motta Pereira :corn:
+# Kissyla Motta Pereira 
 #### *Back-End Instructor on <a href="https://www.betrybe.com/">TRYBE</a>*
 
 ##### WHAT YOU WILL FIND
