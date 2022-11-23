@@ -14,7 +14,7 @@
 - :recycle:  Always learning, practicing and growing up
 - :mortar_board: Industrial Engineer and swimmer :swimmer:
 
-##### MAIN SKILLS
+##### SKILLS
 <div>
 <img src="./img/Octocat.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
@@ -28,10 +28,6 @@
 &nbsp;&nbsp;&nbsp;
 <img src="./img/react.png" width="50" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-</div>
-
-##### OTHERS
-<div>
 <img src="./img/redux.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/nodejs.jpg" width="40" height="40" style="margin: 10px" />
@@ -40,7 +36,18 @@
 &nbsp;&nbsp;&nbsp;
 <img src="./img/mongodb-logo.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
+<img src="./img/docker-logo.webp" width="50" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/Typescript_logo.png" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/mocha-log.png" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/express.png" width="60" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
 </div>
+
+
+[![Kissyla's GitHub stats](https://github-readme-stats.vercel.app/api?username=mottak)](https://github.com/mottak/github-readme-stats)
 
 ##### FOLLOW ME ON
 <a href="https://www.linkedin.com/in/kissylamotta/">
