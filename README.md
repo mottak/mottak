@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software development by TRYBE, and TRYBE INSTRUCTOR<br>❤️ Passionate for technologies and optimizations<br>♻️ Always learning, practicing and growing up<br>🎓 Industrial Engineer and swimmer 🏊
+💻 Software development by TRYBE<br>❤️ Passionate for technologies and optimizations<br>♻️ Always learning, practicing and growing up<br>🎓 Industrial Engineer and swimmer 🏊
 
 
 ## 🌐 Socials:
