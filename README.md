@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Searching opportunity as a back-end developer<br>❤️ Passionate for technologies and optimizations<br>♻️ Always learning, practicing and growing up<br>🎓 Industrial Engineer and swimmer 🏊
+💻 Searching opportunity as a Product Owner<br>❤️ Passionate for technologies and optimizations<br>♻️ Always learning, practicing and growing up<br>🎓 Industrial Engineer and swimmer 🏊
 
 
 ## 🌐 Socials:
